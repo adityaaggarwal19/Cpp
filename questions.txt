@@ -1,0 +1,15 @@
+Questions
+Input Output
+Task 
+Read 3 numbers from stdin and print their sum to stdout.
+
+Note: If you plan on completing this challenge in C instead of C++, you'll need to use format specifiers with printf and scanf.
+
+If Else
+
+Task
+Given a positive integer denoting n, do the following:
+
+If 1<=n<=9, then print the lowercase English word corresponding to the number (e.g., one for 1, two for 2 , etc.).
+If n>9, print Greater than 9.
+
